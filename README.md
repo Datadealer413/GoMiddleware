@@ -412,10 +412,3 @@ func TestFoobar(t *testing.T) {
 
 It is also possible to enable opaque access tokens with the option `optest.WithOpaqueAccessTokens()`. If you add `optest.WithLoginPrompt()` you will have a simple HTML page with the different test users to choose from when going to `/authorization`.
 
-## Examples
-
-See [examples readme](examples/README.md) for more information.
-
-## Roadmap
-
-[GitHub Project](https://github.com/XenitAB/go-oidc-middleware/projects/1)
